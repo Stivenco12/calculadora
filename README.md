@@ -56,7 +56,7 @@ Para ejecutar o modificar este proyecto, necesitas:
 - Mejorar la interfaz gráfica con estilos personalizados y temas.
 - Soporte para entrada con teclado además de los botones.
 
-## Desarrollador = Stiven
+## Desarrollador = Stivenco12
 
 ## Contacto
 
